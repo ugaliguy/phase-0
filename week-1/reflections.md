@@ -93,3 +93,59 @@ I would fork a repository when I wanted to make changes to files that could late
 * What struggles did you have setting up git and GitHub? What did you learn in the process?
 
 Setting up git and GitHub was not difficult, but I have to get used to not being able to move my work around at will (or delete work). I'm getting used to using the command line interface. 
+
+
+## 1.5 Tracking Changes Reflection
+
+*How does tracking and adding changes make developers' lives easier?
+
+Tracking and adding on a project allows you to keep a record/log of changes made to a project.
+You can keep track of when changes were made, what changes were made, and why changes were made.
+If there are several people working on the same project, then you can also keep track of who made a particular change.
+If you want to undo a change, you can go back to an earlier version of the project.
+
+* What is a commit?
+
+When working on a project, you might change files and create or delete other files or directories.
+A commit is a sequence of such modifications to the project.  Git does not keep track of these modifications as they occur. Rather Git waits for you to commit these changes. Git tracks the changes,, but waits for you to commit the changes.
+
+* What are the best practices for commit messages?
+
+Following Tim Pope's recommendations:
+
+1. Capitalize the first letter.
+2. Keep the message length to 50 characters or less.
+3. Use the imperative voice - e.g. say 'Fix bug' rather then 'Fixed bug" or "Fixes bug".
+
+
+* What does the HEAD^ argument mean?
+
+HEAD is the commit you are currently on. HEAD^ is the last commit you made.
+You can use HEAD^ (with the appropriate Git commands) to make changes in files that you have already committed.
+
+
+* What are the 3 stages of a git change and how do you move a file from one stage to the other?
+
+The 3 stages of a git change are:
+1. Local/working file - you modify the file on your machine.
+2. Staged - you add the modified file and git keeps track of these modifications for the next commit.
+3. Commit - you save all of the changes that you've added since the last commit.
+
+To move a file from one stage to the next, do the following:
+1. Locally (i.e. on your computer) make changes to a project in the cloned repo and save them.
+2. You can track and add these changes via the Git command 'git add "file-name"'. 
+3. To commit these changes, use the git command 'git commit -m "Type commit message here" '
+
+
+* Write a handy cheatsheet of the commands you need to commit your changes?
+
+Done!
+
+* What is a pull request and how do you create and merge one?
+
+A pull request is a wway to inform your collaborators that you've made changes that you want them to review before merging. To create a pull request, push the branch to GitHub. Then, make a pull request on GitHub. Once you've decided you are ready to merge then click on the pull request you've just made. If you see a 'Merge pull request' button, click it. Otherwise, click on the  pull-request icon in the vertical navigation bar to the right of your screen. Confirm the merge. Clean up your branches. You are done.
+
+
+* Why are pull requests preferred when working with teams?
+
+Pull requests allow the other members of your team to review and discuss any changes you've made before merging with the master branch. This protects the master branch - i.e. allows you to maintain a working copy of your project
