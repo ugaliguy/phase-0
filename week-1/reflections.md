@@ -9,34 +9,30 @@ Time Boxing is the use of a fixed period of time (e.g. 30 minutes - 25 of which 
 My Time Management plan for Phase 0 is:
 
 * On a weekly basis, start early - read any assignments and challenges as soon as they are posted. I learn by repetition and starting over. The sooner I start, the more opportunities I'll have to do this
-
-*On a daily basis, start my work day early and get a good night's sleep.
-
-*If at all possible, have one free evening each week where I don't do any work.
-
-
+* On a daily basis, start my work day early and get a good night's sleep.
+* If at all possible, have one free evening each week where I don't do any work.
 
 ## 1.2 The Command Line Reflection
 
-*What is a shell? What is "bash?"
+* What is a shell? What is "bash?"
 
 A shell is a command line interface. Before there were graphical user interfaces (and mice/touchpads), the medium for giving commands to a computer was a keyboard. The shell is the interface - we type commands into the shell and the shell translates those commands into machine language.
 
 Bash is the current shell for Unix and (I'm going to guess) Linux.
 
-*What was the most challenging for you in going through this material?
+* What was the most challenging for you in going through this material?
 
 The biggest challenge was to not cheat and create/manipulate files by pointing and clicking.  I am a lousy touch typist. This challenge has convinced me of the importance of learning how to touch type. This material feels like playing scales when trying to learn a musical instrument -  not a lot of fun (at first), rewarding if done regularly.
 
-*Were you able to successfully use all of the commands?
+* Were you able to successfully use all of the commands?
 
 I was able to use most of the commands (although I've been mixing up Unix and Windows commands). Pushd and popd were the ones giving me the most trouble.
 
-*In your opinion, what are the most important commands and arguments to know?
+* In your opinion, what are the most important commands and arguments to know?
 
 Since the command line is new to me, I would say that ls, cd, and ../ are the most important for me. With these, I can at least find my way around the file system. Once I know my way around, then I can focus on creating/removing directories and files.
 
-*Can you remember what each of the following does of the top of your head? Write what each does.
+* Can you remember what each of the following does of the top of your head? Write what each does.
 
 -pwd  This tells you where you currently are in the file system
 
@@ -63,7 +59,7 @@ Since the command line is new to me, I would say that ls, cd, and ../ are the mo
 
 ## 1.4 Forking and Cloning Reflection 
 
-*If you were going to write instructions for a new person on how to create a new repo, fork a repo, and clone a repo, what would they be? Why would you fork a repository as opposed to create a new one?
+* If you were going to write instructions for a new person on how to create a new repo, fork a repo, and clone a repo, what would they be? Why would you fork a repository as opposed to create a new one?
 
 Instructions for creating a new repo:
 
@@ -94,6 +90,6 @@ Why would you fork a repository as opposed to create a new one?
 
 I would fork a repository when I wanted to make changes to files that could later be merged into a master file.Also, by forking a copy, I can safely manipulate the forked files without fear of damaging the master files. I would be free to try anything on my copy of the repo.
 
-*What struggles did you have setting up git and GitHub? What did you learn in the process?
+* What struggles did you have setting up git and GitHub? What did you learn in the process?
 
 Setting up git and GitHub was not difficult, but I have to get used to not being able to move my work around at will (or delete work). I'm getting used to using the command line interface. 
