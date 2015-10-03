@@ -64,3 +64,38 @@ Since the command line is new to me, I would say that ls, cd, and ../ are the mo
 
 
 ## 1.4 Forking and Cloning Reflection  
+
+* If you were going to write instructions for a new person on how to create a new repo, fork a repo, and clone a repo, what would they be? Why would you fork a repository as opposed to create a new one?
+
+Instructions for creating a new repo:
+
+1. Go to your GitHub profile page.
+2. On the upper-right corner, next to your avatar, click on the "+" symbol.
+3. Click on "New repository"
+4. Enter a repository name - something you won't forget.
+5. Select "public" (and not "private") for your repository visibility.
+6. Add an "MIT License" to your repository. 
+7. Click "Create Repository" and you are done.
+
+Instructions for forking repo:
+
+1. Go to the repo that you want to fork
+2. On the upper-right corner, below your avatar, click the "fork" button. This will take you from the repo you have forked to your copy of the repo in your GitHub account.
+
+Instructions for cloning a repo:
+
+1. Open a terminal and navigate to the directory where you want to clone a copy of the repo.
+2. Double check (use 'pwd') to make sure you are in the directory you intended.
+3. Go to the forked repo that you want to clone.
+4. Look on the lower-right corner for a URL -- above it may be the label 'HTTPS clone URL'. Either copy the URL or click on the 'clipboard' symbol.
+5. Going back to the terminal you opened (and have navigated to your deired directory), type the following (without the quote marks)  'git clone' and paste the URL you copied in Step 4.
+6. Press Enter and you should be done (after some processing).
+7. Note that you may have to type your login data too.
+
+* Why would you fork a repository as opposed to create a new one?
+
+I would fork a repository when I wanted to make changes to files that could later be merged into a master file.Also, by forking a copy, I can safely manipulate the forked files without fear of damaging the master files. I would be free to try anything on my copy of the repo.
+
+* What struggles did you have setting up git and GitHub? What did you learn in the process?
+
+Setting up git and GitHub was not difficult, but I have to get used to not being able to move my work around at will (or delete work). I'm getting used to using the command line interface. 
