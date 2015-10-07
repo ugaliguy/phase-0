@@ -7,7 +7,7 @@
   - Context (what will your target audience look for on this site)
 
 - Planning
-  - Develop the site map
+  - Develop the site map (see below for an example)
   - Determine any technologies to be implemented - e.g. content management systems (CMS)
 
 - Design
