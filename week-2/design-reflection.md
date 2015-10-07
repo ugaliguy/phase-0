@@ -55,4 +55,7 @@ User experience encompasses several branches of Human-Computer Interaction (HCI)
 
 Nothing was really tedious, but questions 5 and 6 seemed to have a large overlap.
 
-![Image of Site Map](/imgs/site-map.png)
+
+![Image of Site Map](/week-2/imgs/site-map.png)
+
+
