@@ -43,9 +43,9 @@ I want visitors to look at my projects and to look at my work history. Each page
 
 ### What are the main things someone should know about design and user experience?
 
-Design drives development. Developers and designers are on the same team, so understanding design will make you a better collaborator with the designers. Designers solve problems (at a high level, through their designs). Developers familiar with design principles will be in a much better position to create solutions to the problems posed by designers.
+Design drives development. Notice that in the six phases of web design, *development comes 4th*. Developers and designers are on the same team, so understanding design will make you a better collaborator with the designers. Designers solve problems (at a high level, through their designs). Developers familiar with design principles will be in a much better position to create solutions to the problems posed by designers.
 
-User experience addresses isses of how to improve human-computer interaction - e.g. enhancing accessibility, efficiency, and giving a pleasant experience that will make the user want to reuse the software (or revisit the web site).
+User experience addresses issues of how to improve human-computer interaction - e.g. enhancing accessibility, efficiency, and giving a pleasant experience that will make the user want to reuse the software (or revisit the web site).
 
 ### What is user experience design and why is it valuable? 
 
