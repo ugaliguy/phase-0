@@ -22,3 +22,7 @@ I asked myself "Am I trying to squeeze too much into a single page?", "How can I
 ### Which parts of the challenge did you enjoy and which parts did you find tedious?
 
 Nothing was tedious. I work under the assumption that these questions are designed to get us to think deeply about these topics, so I don't find these questions tedious, but I do find trying to answer them exhausting.
+
+![Image of Wireframe Index](/week-2/imgs/wireframe-index.png)
+
+![Image of Wireframe Blog Index](/week-2/imgs/wireframe-blog-index.jpg)
