@@ -1,0 +1,78 @@
+/*
+1. What is important to know when linking an external file (like a stylesheet) to an HTML file?
+
+The file path from the style sheet to the intended .html file
+
+2. What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+
+This was really challenging. I am still trying to figure out how not to use <br> for line-breaks, but instead use css.
+One trick I used to make text smaller relative to another text-object was to put the text I wanted to make smaller into a <footer>, 
+then I used css to make font-size: smaller;
+
+3. What CSS did you use to modify the element style (like size, color, etc.)
+
+I used font-size mostly. I used css'a column-count to format my list of links into two columns.
+
+4. Did you modify the HTML to include classes or ids? If so, which did you chose and why? If you didn't, how would you know which one to add to your HTML?
+
+I used ids to format the "BERKSHIRE HATHAWAY, INC." in the header and the Geico image in the footer.
+Ids were appropriate because both of these elements were unique to the page.
+
+5. When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+
+My site has much cleaner code. I used html5 tags to compartmentalize the content. 
+I used no html style attributes, but rather let css do the formatting for me.
+My site does not perfectly match the original, but I'll bet with enough time and practice, I could make a cleaner duplicatte of this site.
+
+The actual code base is very hard to parse (for example it's hard to see where the closing tas </ul> occur). Each individual link is smothered by table-specifications and style ttributes.
+The fact that this code is nearly identical for each link is a hint that there's a better way to do it using css.
+*/
+
+body {
+    color: #000080;
+    background-color: #fff;
+}
+
+a {
+    color: #800080;
+}
+
+a:visited {
+    color: #ff0000;
+}
+
+
+section {
+  -webkit-column-count: 3;
+     -moz-column-count: 3;
+          column-count: 3;
+}
+
+footer {
+    font-size: 75%;
+}
+
+header {
+    font-weight: bold;
+    text-align: center;
+}
+
+header header {
+    font-variant: small-caps;
+    font-size: 175%;
+}
+
+.geico {
+	/*This is an class for formatting the Geico part of the site*/
+	text-align: center;
+	display: block;
+}
+
+.horizontal {
+	border-bottom: 1px solid #B0B0B0; 
+}
+
+#legal {
+	/*This is an id for formatting the Legal Disclaimer*/
+	font-size: 133%;
+}
