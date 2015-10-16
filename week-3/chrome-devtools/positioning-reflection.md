@@ -2,21 +2,21 @@ These are the screenshots from Week 3 challence 3.4:
 
 * 3.4.1  ![3.4.1](imgs/3.4.1.png)
 
-* 3.4.2  ![3.4.2](/imgs/3.4.2.png)
+* 3.4.2  ![3.4.2](imgs/3.4.2.png)
 
-* 3.4.3  ![3.4.3](/imgs/3.4.3.png)
+* 3.4.3  ![3.4.3](imgs/3.4.3.png)
 
-* 3.4.4  ![3.4.4](/imgs/3.4.4.png)
+* 3.4.4  ![3.4.4](imgs/3.4.4.png)
 
-* 3.4.5  ![3.4.5](/imgs/3.4.5.png)
+* 3.4.5  ![3.4.5](imgs/3.4.5.png)
 
-* 3.4.6  ![3.4.6](/imgs/3.4.6.png)
+* 3.4.6  ![3.4.6](imgs/3.4.6.png)
 
-* 3.4.7  ![3.4.7](/imgs/3.4.7.png)
+* 3.4.7  ![3.4.7](imgs/3.4.7.png)
 
-* 3.4.8  ![3.4.8](/imgs/3.4.8.png)
+* 3.4.8  ![3.4.8](imgs/3.4.8.png)
 
-* 3.4.9  ![3.4.9](/imgs/3.4.9.png)
+* 3.4.9  ![3.4.9](imgs/3.4.9.png)
 
 ### How can you use Chrome's DevTools inspector to help you format or position elements?
 
