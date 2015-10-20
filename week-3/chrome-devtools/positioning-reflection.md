@@ -10,7 +10,7 @@ These are the screenshots from Week 3 challence 3.4:
 
 * 3.4.5  ![3.4.5](imgs/3.4.5.png)
 
-* 3.4.6  ![3.4.6](imgs/3.4.6.png)
+* 3.4.6  ![3.4.6](imgs/3.4.6a.png)
 
 * 3.4.7  ![3.4.7](imgs/3.4.7.png)
 
