@@ -77,5 +77,7 @@ Strings are desirable since not all variables are numerical and not all computat
 Local variables are variables living inside of methods. They are confined to the method and cannot be accessed from outside of the method. Similarly, local variables cannot access local variables in other methods. This keeps your code safe. You cannot unintentionally damage your by giving your local variables unrestricted access to other parts of the program. Local variables make your code safe.
 
 
-
 #### How was this challenge? Did you get a good review of some of the basics?
+
+This was a fun challenge. It's nice to start getting into some programming.
+This was a good refresher of the basics.
