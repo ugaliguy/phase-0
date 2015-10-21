@@ -1,3 +1,12 @@
+
+#### Please note that there was no way to submit separate links for the three .rb files. So, I have attached the links below:
+
+[4.2.1 Defining Variables](https://github.com/ugaliguy/phase-0/blob/master/week-4/defining-variables.rb)
+
+[4.2.2 Simple String Methods](https://github.com/ugaliguy/phase-0/blob/master/week-4/simple-string.rb)
+
+[4.2.3 Local Variables and Basic Arithmetical Expressions](https://github.com/ugaliguy/phase-0/blob/master/week-4/basic-math.rb)
+
 ## Release 1: Summarize
 
 #### What does puts do?
