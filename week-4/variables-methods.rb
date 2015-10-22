@@ -24,7 +24,11 @@ end
 
 Here are the links for the mini-challenges:
 
+4.3.1
+https://github.com/ugaliguy/phase-0/blob/master/week-4/address/my_solution.rb
 
+4.3.2
+https://github.com/ugaliguy/phase-0/blob/master/week-4/math/my_solution.rb
 	
 How do you define a local variable?
 
