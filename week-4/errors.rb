@@ -188,6 +188,6 @@ Yes, except for the last one. I had no idea what was ntended to happen with this
 4. When you encounter errors in your future code, what process will you follow to help you debug?	
 
 I don't know what my process will be yet since I haven't had to deal with any bugs. At the very least I will read the error messages carefully 
-and procede from there.
+and proceed from there.
 	
 =end
