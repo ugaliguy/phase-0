@@ -6,7 +6,7 @@
 # Your Solution Below
 
 # my_info is empty to start.  Edit this!
-my_info = {:first_name => "Chris", :last_name => "Gomes", :hometown => "NYC", :age => }
+my_info = {:first_name => "Chris", :last_name => "Gomes", :hometown => "NYC", :age => 50}
 
 
 # RSpec Tests. They are included in this file because the local variables you are creating are not accessible across files. 
