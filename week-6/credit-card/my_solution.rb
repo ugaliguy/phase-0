@@ -167,7 +167,8 @@ my double_digits and sum_digits methods from inside of check_card. I lost a lot 
 
 2. What new methods did you find to help you when you refactored?
 
-I figured out how to use the enumerator inject. I also got a better handle on the map method.
+I tried to figure out how to use the enumerator inject. I also tried to get a better handle on the map method.
+I wasn't succesful with either method, but I feel like I should be able to use them.
 
 3. What concepts or learnings were you able to solidify in this challenge?
 
