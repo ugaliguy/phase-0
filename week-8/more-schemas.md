@@ -48,5 +48,4 @@ of whose rows are unique, but which still captures the many-to-many nature of th
 
 I don't mean to sound cocky, but database schemas don't confuse me. I view them analogously to wire-frames for a website. Before you can begin putting content into a website, you must plan how you will lay out your content.
 
-Database schemas fulfill a similar role for data. Before you enter any data into your database, you must have some idea 
-how individual pieces of data relate to one another otherwise, you could end up with a large unwieldy collection of data that is hard to access and has to be thrown out an redesigned.
+Database schemas fulfill a similar role for data. Before you enter any data into your database, you must have some idea of how individual pieces of data relate to one another otherwise, you could end up with a large unwieldy collection of data that is hard to access and has to be thrown out and redesigned.
